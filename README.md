@@ -24,12 +24,12 @@ The project uses LangChain to integrate a chatbot with a SQL database. This enab
 
  ### Clone the Repository
  
-git clone https://github.com/RahulVarunn/Chatbot-Mysql-Langchain.git
-cd Chatbot-Mysql-Langchain
+> git clone https://github.com/RahulVarunn/Chatbot-Mysql-Langchain.git
+> cd Chatbot-Mysql-Langchain
 
 ### Install Dependencies
 
-pip install -r requirements.txt
+> pip install -r requirements.txt
 
-### Configure MySQL
-streamlit run app.py
+### Run Streamlit File
+> streamlit run app.py
